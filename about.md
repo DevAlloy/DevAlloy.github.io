@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Приветствую! Меня зовут Стас Цыганов, я работаю старшим инженером-разработчиком iOS, в этом блоге планирую делиться интересным по iOS-разработке, обсуждать насущные проблемы и предлагать пути их решения.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Сам не очень люблю длиннопосты, из которых сразу не ясно, будет тебе это полезно или нет. Буду писать по сути с минимумом воды, или выносить основное в tl;dr.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Не стесняйтесь оставлять комменты, с удовольствием поучаствую в обсуждении сложных моментов. Надеюсь, что вам будет интересно!
