@@ -4,6 +4,7 @@ title:  "Feature toggle"
 date:   2016-08-02
 category: architecture
 permalink: feature-toggle
+comments: true
 ---
 
 ![]({{ site.url }}/assets/feature-toggle/toggle.jpg)
